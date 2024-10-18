@@ -2,9 +2,6 @@
 
 # Project Title
 
-A brief description of what this project does and who it's for
-
-
 # Manpower Planning
 
 ### Dashboard Link : https://app.powerbi.com/groups/me/reports/49e719e4-da94-4330-b3e0-4c36311f05e1/b68f880ca48bc002ec80?experience=power-bi
