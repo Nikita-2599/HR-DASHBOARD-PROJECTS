@@ -1,6 +1,3 @@
-# HR-DASHBOARD-PROJECTS
-
-# Project Title
 
 # Manpower Planning
 
